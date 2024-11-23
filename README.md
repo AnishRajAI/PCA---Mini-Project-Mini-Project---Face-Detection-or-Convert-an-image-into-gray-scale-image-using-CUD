@@ -15,10 +15,6 @@ The aim of this project is to demonstrate how to convert an image to grayscale u
 8. Clean up allocated memory.
 
 ## Program:
-```
-NAME    : JANARTHANAN V K
-REG NO  : 212222230051
-```
 ```c++
 #include <stdio.h>
 #include <string>
